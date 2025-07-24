@@ -3,7 +3,8 @@
 Uma calculadora de desktop funcional e robusta, desenvolvida como um projeto de aprendizado para os fundamentos de C#, .NET e desenvolvimento de interfaces gráficas com Windows Forms.
 
 
-<img width="1090" height="216" alt="Captura de tela 2025-02-27 132633" src="https://github.com/user-attachments/assets/649de930-c8ea-4129-acd7-9985d4aa378f" />
+<img width="505" height="448" alt="Captura de tela 2025-07-24 124510" src="https://github.com/user-attachments/assets/1d0c1dec-990c-4792-bb75-200f1a933d13" />
+
 
 
 ## 🚀 Funcionalidades
